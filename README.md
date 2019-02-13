@@ -4,6 +4,8 @@ Don't forget to input your google maps api key
 
 ## Available Scripts
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dvbnrg/live-map-react.svg)](https://greenkeeper.io/)
+
 In the project directory, you can run:
 
 ### `npm start`
